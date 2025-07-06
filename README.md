@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">
   <a href="https://github.com/Ayush-IT">
@@ -66,4 +70,3 @@
 ---
 
 <p align="center">✨ Thank you for visiting my profile! Let’s build something amazing together. 🚀</p>
-
