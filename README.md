@@ -1,10 +1,15 @@
-## Hi there 👋
-
-<!--
-**Ayush-IT/Ayush-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer and Machine Learning enthusiast from India</h3>
+<h3 align="center">
+  <a href="https://github.com/Ayush-IT">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Python+Lover;Always+Learning+New+Things!&center=true&width=500&height=50">
+  </a>
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush-IT&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-IT" />
+</p>
+
+---
 
 - 🔭 I’m currently working on **Full Stack & AI/ML Projects**
 - 🌱 I’m currently learning **React, Node.js, Next.js, and Advanced Python**
@@ -37,10 +42,17 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayush-IT&show_icons=true&theme=tokyonight" alt="Ayush's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-IT&theme=tokyonight" alt="Ayush's GitHub streak" />
+</p>
+
+---
+
+### 🥇 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ayushbhardwaj3746?theme=dark&ext=contest" alt="Ayush's LeetCode Stats" />
 </p>
 
 ---
@@ -54,14 +66,4 @@
 ---
 
 <p align="center">✨ Thank you for visiting my profile! Let’s build something amazing together. 🚀</p>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
