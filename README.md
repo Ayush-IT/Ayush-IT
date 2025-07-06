@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">
   <a href="https://github.com/Ayush-IT">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Machine+Learning+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+/+Machine+Learning+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=50">
   </a>
 </h3>
 
@@ -34,7 +34,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 
 ---
