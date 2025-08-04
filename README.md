@@ -40,9 +40,9 @@
 ---
 
 ### 🚀 Featured Projects
-- 💻 [HTML-CSS Amazon Clone](https://github.com/Ayush-IT/html-css-amazon-clone)
-- 🖥️ [Bootstrap Project](https://github.com/Ayush-IT/bootstrap-project)
-- 🌐 [Node Express JS App](https://github.com/Ayush-IT/node-express-js)
+- 💻 [Expense Tracker](https://expense-tracker-kumardev.vercel.app)
+- 🖥️ [AI Mock Interview Platform]([https://github.com/Ayush-IT/bootstrap-project](https://github.com/Ayush-IT/ai_mock_interviews))
+- 🌐 [Kriyaflow](https://kriya-flow-app.vercel.app/)
 - 🕹️ [Pong Game (Python)](https://github.com/Ayush-IT/Pong_game)
 
 ---
